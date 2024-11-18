@@ -1,6 +1,6 @@
 # OláSouIgor <br/>
 A constantly evolving creative, exploring the combination of visual art and programming. <br/>
-Currently delving into full-stack development. <br/>
+Currently delving into fullstack development. <br/>
 Combining visual acuity and programming, constantly seek to innovate, creating digital solutions that unite aesthetics and technology. <br/>
 
 
